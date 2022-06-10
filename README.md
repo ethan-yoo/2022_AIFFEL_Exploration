@@ -1,6 +1,7 @@
 # 2022_AIFFEL_Exploration
 2022 아이펠 강남 4기 exploration codes
 
+Idx|Contents
 :--|:--
 E01|손글씨 분류하기
 E02|당뇨수치 예측하기
