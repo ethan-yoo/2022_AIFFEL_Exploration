@@ -13,4 +13,4 @@ E07|[뉴스기사 요약봇](https://github.com/ethan-yoo/2022_AIFFEL/blob/main/
 E08|[스티커 필터 구현](https://github.com/ethan-yoo/2022_AIFFEL/blob/main/Exploration/E08_ImNotSnapChat.ipynb)
 E09|[네이버 영화리뷰 감성분석](https://github.com/ethan-yoo/2022_AIFFEL/blob/main/Exploration/E09_Sentimental.ipynb)
 E10|[인물사진 촬영 필터](https://github.com/ethan-yoo/2022_AIFFEL/blob/main/Exploration/E10_ShallowFocus.ipynb)
-E11|[트랜스포머를 활용한 한국어 챗봇]
+E11|트랜스포머를 활용한 한국어 챗봇 (processing...)
