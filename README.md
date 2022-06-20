@@ -15,3 +15,4 @@ E09|[네이버 영화리뷰 감성분석](https://github.com/ethan-yoo/2022_AIFF
 E10|[인물사진 촬영 필터](https://github.com/ethan-yoo/2022_AIFFEL/blob/main/Exploration/E10_ShallowFocus.ipynb)
 E11|[트랜스포머를 활용한 한국어 챗봇](https://github.com/ethan-yoo/2022_AIFFEL/blob/main/Exploration/E11_Transformer_Chatbot.ipynb)
 E12|[테서랙트와 keras-ocr 성능 비교](https://github.com/ethan-yoo/2022_AIFFEL/blob/main/Exploration/E12_OCR.ipynb)
+E13|[Pretrained BERT for KorQuad](https://github.com/ethan-yoo/2022_AIFFEL/blob/main/Exploration/E13_BERT4KorQuad.ipynb)
