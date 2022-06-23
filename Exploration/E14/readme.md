@@ -5,7 +5,7 @@
 ![img1](https://github.com/ethan-yoo/2022_AIFFEL/blob/main/Exploration/E14/gifs/dcgan_history.gif) | ![img2](https://github.com/ethan-yoo/2022_AIFFEL/blob/main/Exploration/E14/gifs/fashion_mnist_dcgan.gif)
 ![img3](https://github.com/ethan-yoo/2022_AIFFEL/blob/main/Exploration/E14/gifs/re_history.gif) | ![img4](https://github.com/ethan-yoo/2022_AIFFEL/blob/main/Exploration/E14/gifs/re_gan.gif)
 
-위쪽 그래프는 epoch 300, batch_size 256일 때이고 아래 그래프는 epoch 500, batch_size 128일 때 입니다.
+위쪽 그래프는 epoch 300, batch_size 256일 때이고 아래 그래프는 epoch 500, batch_size 128일 때입니다.
 
 아래쪽 그래프를 보면 iteration이 반복됨에 따라서 real accuracy가 향상되는 걸 볼 수 있습니다. 이미지 또한 자동차나 앉아 있는 사람, 개를 구분할 수 있을 정도로 향상되고 있는 것을 확인할 수 있습니다.
 
