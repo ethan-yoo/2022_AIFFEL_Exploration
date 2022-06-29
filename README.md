@@ -18,4 +18,4 @@ E12|[테서랙트와 keras-ocr 성능 비교](https://github.com/ethan-yoo/2022_
 E13|[Pretrained BERT for KorQuad](https://github.com/ethan-yoo/2022_AIFFEL/blob/main/Exploration/E13/E13_BERT4KorQuad.ipynb)
 E14|[GAN을 활용한 이미지 생성하기](https://github.com/ethan-yoo/2022_AIFFEL/blob/main/Exploration/E14/E14_GAN4fakefasion.ipynb)
 E15|[영화 추천 시스템 & Cold Start 문제](https://github.com/ethan-yoo/2022_AIFFEL/blob/main/Exploration/E15/E15_DoYouLikeToyStory.ipynb)
-E16|[CGAN으로 이미지 자동채색하기](https://github.com/ethan-yoo/2022_AIFFEL/blob/main/Exploration/E16/E16_AutoColoring.ipynb)
+E16|[CGAN으로 이미지 자동채색하기](https://github.com/ethan-yoo/2022_AIFFEL/blob/main/Exploration/E16/E16_cGAN_RoadImg.ipynb)
